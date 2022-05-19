@@ -115,17 +115,32 @@ namespace Lab_02 {
 
         public static void Verification() {
             if (blockchain.Count != 0) {
-                for (int i = 1; i != blockchain.Count; i++) {
-                    if (getHash(blockchain[i].GetTimestamp,
+                for (int i = 0; i != blockchain.Count; i++) {                   
+                    if (i == 0) {
+                        if (getHash(blockchain[i].GetTimestamp,
+                                blockchain[i].GetData,
+                                "",
+                                blockchain[i].GetNonce) == blockchain[i].GetHash) Console.WriteLine("Block {0} - OK", i);
+                        else
+                        {
+                            Console.WriteLine("Найдено несоответствие !!!");
+
+                            return;
+                        }
+                    }
+                    else
+                    {
+                        if (getHash(blockchain[i].GetTimestamp,
                                 blockchain[i].GetData,
                                 blockchain[i - 1].GetHash,
                                 blockchain[i].GetNonce) == blockchain[i].GetHash) Console.WriteLine("Block {0} - OK", i);
-                    else {
-                        Console.WriteLine("Найдено несоответствие !!!");
+                        else
+                        {
+                            Console.WriteLine("Найдено несоответствие !!!");
 
-                        return;
-                    }
-
+                            return;
+                        }
+                    }                                     
                 }
 
                 Console.WriteLine("Все блоки подтверждены успешно!!");

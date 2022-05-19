@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Проекты\\Lab_02\\Lab_02.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Выполненная работа\\Проекты\\Lab_02\\Lab_02.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Проекты\\Lab_02\\Lab_02.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Выполненная работа\\Проекты\\Lab_02\\Lab_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Проекты\\Lab_02\\Lab_02.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Выполненная работа\\Проекты\\Lab_02\\Lab_02.csproj",
         "projectName": "Lab_02",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Проекты\\Lab_02\\Lab_02.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Выполненная работа\\Проекты\\Lab_02\\Lab_02.csproj",
         "packagesPath": "C:\\Users\\asutp-skv\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Проекты\\Lab_02\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Учеба WIP\\ТБиРИС\\Выполненная работа\\Проекты\\Lab_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asutp-skv\\AppData\\Roaming\\NuGet\\NuGet.Config",
