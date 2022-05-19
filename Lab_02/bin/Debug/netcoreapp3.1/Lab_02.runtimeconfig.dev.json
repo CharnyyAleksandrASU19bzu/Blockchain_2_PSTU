@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\asutp-skv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\asutp-skv\\.nuget\\packages"
+    ]
+  }
+}

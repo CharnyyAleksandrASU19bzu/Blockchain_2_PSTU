@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfo.cs
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.exe
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.deps.json
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.runtimeconfig.json
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.dll
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.pdb
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.dll
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.pdb
+\\Mac\Home\Desktop\Учеба WIP\ТБиРИС\Проекты\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.genruntimeconfig.cache
